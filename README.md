@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **pranshupl2005@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1W_dWGSfegjeYe6aYw3ZdNAdXAIJmAZa-/view?usp=sharing](https://drive.google.com/file/d/1W_dWGSfegjeYe6aYw3ZdNAdXAIJmAZa-/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1gxOKG2VVYdaVtTlcnBf00UXM5Qp0vRZi/view](https://drive.google.com/file/d/1gxOKG2VVYdaVtTlcnBf00UXM5Qp0vRZi/view)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -42,4 +42,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranshupal2003&show_icons=true&locale=en" alt="pranshupal2003" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranshupal2003&" alt="pranshupal2003" /></p>
-

@@ -48,4 +48,4 @@
 
 
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/pranshupal2003/pranshupal2003/blob/output/github-contribution-grid-snake.gif)

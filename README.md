@@ -44,5 +44,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranshupal2003&" alt="pranshupal2003" /></p>
 
 
+![snake gif](https://github.com/pranshupal2003/pranshupal2003/blob/output/github-contribution-grid-snake.gif)
 
-![snake animation](https://github.com/<seu pranshupal2003>/<seu pranshupal2003>/blob/output/github-contribution-grid-snake2.svg)

@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **pranshupl2005@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1gxOKG2VVYdaVtTlcnBf00UXM5Qp0vRZi/view](https://drive.google.com/file/d/1gxOKG2VVYdaVtTlcnBf00UXM5Qp0vRZi/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Sd3NNDqPSRjoUgRYaTSYZUnVeCEFhBy4/view?usp=sharing](https://drive.google.com/file/d/1Sd3NNDqPSRjoUgRYaTSYZUnVeCEFhBy4/view?usp=sharing)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
